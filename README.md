@@ -28,5 +28,5 @@ Your objective, as challenger, is to forge a valid token for the user â€œmasterâ
 ```
 
 
-# ersion 1.0.0
+# Version 1.0.0
 ### License: MIT
