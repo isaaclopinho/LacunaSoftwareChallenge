@@ -1,0 +1,17 @@
+C:\Users\Isaac\source\repos\LacunaSoftwareChallenge\LacunaSoftwareChallenge\obj\Debug\netcoreapp3.1\LacunaSoftwareChallenge.csprojAssemblyReference.cache
+C:\Users\Isaac\source\repos\LacunaSoftwareChallenge\LacunaSoftwareChallenge\obj\Debug\netcoreapp3.1\LacunaSoftwareChallenge.AssemblyInfoInputs.cache
+C:\Users\Isaac\source\repos\LacunaSoftwareChallenge\LacunaSoftwareChallenge\obj\Debug\netcoreapp3.1\LacunaSoftwareChallenge.AssemblyInfo.cs
+C:\Users\Isaac\source\repos\LacunaSoftwareChallenge\LacunaSoftwareChallenge\bin\Debug\netcoreapp3.1\LacunaSoftwareChallenge.exe
+C:\Users\Isaac\source\repos\LacunaSoftwareChallenge\LacunaSoftwareChallenge\bin\Debug\netcoreapp3.1\LacunaSoftwareChallenge.deps.json
+C:\Users\Isaac\source\repos\LacunaSoftwareChallenge\LacunaSoftwareChallenge\bin\Debug\netcoreapp3.1\LacunaSoftwareChallenge.runtimeconfig.json
+C:\Users\Isaac\source\repos\LacunaSoftwareChallenge\LacunaSoftwareChallenge\bin\Debug\netcoreapp3.1\LacunaSoftwareChallenge.runtimeconfig.dev.json
+C:\Users\Isaac\source\repos\LacunaSoftwareChallenge\LacunaSoftwareChallenge\bin\Debug\netcoreapp3.1\LacunaSoftwareChallenge.dll
+C:\Users\Isaac\source\repos\LacunaSoftwareChallenge\LacunaSoftwareChallenge\bin\Debug\netcoreapp3.1\LacunaSoftwareChallenge.pdb
+C:\Users\Isaac\source\repos\LacunaSoftwareChallenge\LacunaSoftwareChallenge\obj\Debug\netcoreapp3.1\LacunaSoftwareChallenge.dll
+C:\Users\Isaac\source\repos\LacunaSoftwareChallenge\LacunaSoftwareChallenge\obj\Debug\netcoreapp3.1\LacunaSoftwareChallenge.pdb
+C:\Users\Isaac\source\repos\LacunaSoftwareChallenge\LacunaSoftwareChallenge\obj\Debug\netcoreapp3.1\LacunaSoftwareChallenge.genruntimeconfig.cache
+C:\Users\Isaac\source\repos\LacunaSoftwareChallenge\LacunaSoftwareChallenge\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\Isaac\source\repos\LacunaSoftwareChallenge\LacunaSoftwareChallenge\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Isaac\source\repos\LacunaSoftwareChallenge\LacunaSoftwareChallenge\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Isaac\source\repos\LacunaSoftwareChallenge\LacunaSoftwareChallenge\obj\Debug\netcoreapp3.1\LacunaSoftwareChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Isaac\source\repos\LacunaSoftwareChallenge\LacunaSoftwareChallenge\obj\Debug\netcoreapp3.1\LacunaSoftwareChallenge.csproj.CopyComplete
