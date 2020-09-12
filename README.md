@@ -5,7 +5,7 @@ Your objective, as challenger, is to forge a valid token for the user “master�
 
 # Como foi feito:
 
-> Primeiro, foram criadas 4 contas com 32 caracteres cada com caracteres repetidos para umm primeira avaliação do padrão do token que é gerado.
+> Primeiro, foram criadas 4 contas com 32 caracteres cada com caracteres repetidos para uma primeira avaliação do padrão do token que é gerado.
 
 > As contas foram:
 - 000000000000000000000000000000
