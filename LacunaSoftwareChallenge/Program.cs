@@ -1,14 +1,10 @@
 ﻿using Newtonsoft.Json;
 using System;
-using System.Diagnostics;
 using System.Linq;
-using System.Net;
 using System.Net.Http;
-using System.Net.Http.Formatting;
 using System.Text;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
-using System.Xml.XPath;
 
 namespace LacunaSoftwareChallenge
 {
@@ -55,6 +51,8 @@ namespace LacunaSoftwareChallenge
 
             var firstUsernameCrypted = "8AB433807445B548A7D07CCD4A54139DCEC628DB22DC4A0AD5E19FFA2BFECCAF";
             var key = xor(r, firstUsernameCrypted);
+
+            Console.WriteLine(key);
 
             var secondUsername = "8AB433807445B548B4C36FDE5947008EDDD53BC831CF5919C6F28CE938EDDFBC";
             var secondUsernameDecrypted = xor(secondUsername, key);
